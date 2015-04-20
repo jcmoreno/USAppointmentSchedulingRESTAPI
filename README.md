@@ -70,3 +70,9 @@ DELETE: This method is used for removing appointments
 METHOD: DELETE
 URL: /AppointmentSvc.svc/appointments/{id}
 ```
+
+TODO
+-----
+- More specialized tests on SOAP-UI and .Net unit tests.
+- More comments
+- Use custom exceptions to enhance error reporting
