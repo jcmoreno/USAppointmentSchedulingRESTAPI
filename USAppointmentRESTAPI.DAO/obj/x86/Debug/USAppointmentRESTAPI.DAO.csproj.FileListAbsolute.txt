@@ -1,0 +1,9 @@
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI.DAO\bin\x86\Debug\USAppointmentRESTAPI.DAO.dll.config
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI.DAO\bin\x86\Debug\USAppointmentRESTAPI.DAO.dll
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI.DAO\bin\x86\Debug\USAppointmentRESTAPI.DAO.pdb
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI.DAO\bin\x86\Debug\EntityFramework.dll
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI.DAO\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI.DAO\bin\x86\Debug\EntityFramework.xml
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI.DAO\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI.DAO\obj\x86\Debug\USAppointmentRESTAPI.DAO.dll
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI.DAO\obj\x86\Debug\USAppointmentRESTAPI.DAO.pdb

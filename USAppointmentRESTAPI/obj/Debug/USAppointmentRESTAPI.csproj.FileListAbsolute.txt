@@ -7,3 +7,13 @@ C:\Users\Administrator\documents\visual studio 2012\Projects\USAppointmentRESTAP
 C:\Users\Administrator\documents\visual studio 2012\Projects\USAppointmentRESTAPI\USAppointmentRESTAPI\bin\EntityFramework.dll
 C:\Users\Administrator\documents\visual studio 2012\Projects\USAppointmentRESTAPI\USAppointmentRESTAPI\bin\USAppointmentRESTAPI.DAO.pdb
 C:\Users\Administrator\documents\visual studio 2012\Projects\USAppointmentRESTAPI\USAppointmentRESTAPI\bin\EntityFramework.xml
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI\obj\Debug\USAppointmentRESTAPI.csprojResolveAssemblyReference.cache
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI\bin\USAppointmentRESTAPI.dll.config
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI\bin\USAppointmentRESTAPI.dll
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI\bin\USAppointmentRESTAPI.pdb
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI\bin\USAppointmentRESTAPI.DAO.dll
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI\bin\EntityFramework.dll
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI\bin\USAppointmentRESTAPI.DAO.pdb
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI\bin\EntityFramework.xml
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI\obj\Debug\USAppointmentRESTAPI.dll
+C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI\obj\Debug\USAppointmentRESTAPI.pdb
