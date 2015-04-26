@@ -14,12 +14,3 @@ C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentR
 C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI.DAO\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI.DAO\obj\Debug\USAppointmentRESTAPI.DAO.dll
 C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI.DAO\obj\Debug\USAppointmentRESTAPI.DAO.pdb
-C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI.DAO\bin\Debug\USAppointmentRESTAPI.DAO.dll.config
-C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI.DAO\bin\Debug\USAppointmentRESTAPI.DAO.dll
-C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI.DAO\bin\Debug\USAppointmentRESTAPI.DAO.pdb
-C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI.DAO\bin\Debug\EntityFramework.dll
-C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI.DAO\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI.DAO\bin\Debug\EntityFramework.xml
-C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI.DAO\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI.DAO\obj\Debug\USAppointmentRESTAPI.DAO.dll
-C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI.DAO\obj\Debug\USAppointmentRESTAPI.DAO.pdb
