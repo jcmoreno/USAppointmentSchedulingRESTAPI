@@ -17,3 +17,16 @@ C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentR
 C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI\bin\EntityFramework.xml
 C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI\obj\Debug\USAppointmentRESTAPI.dll
 C:\Users\JenniferSa\Documents\GITREPOS\USAppointmentSchedulingApi\USAppointmentRESTAPI\obj\Debug\USAppointmentRESTAPI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI\bin\USAppointmentRESTAPI.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI\bin\USAppointmentRESTAPI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI\bin\USAppointmentRESTAPI.DAO.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI\bin\USAppointmentRESTAPI.DAO.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI\obj\Debug\USAppointmentRESTAPI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI\obj\Debug\USAppointmentRESTAPI.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI\obj\Debug\USAppointmentRESTAPI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI\bin\EntityFramework.SqlServerCompact.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentRESTAPI\bin\EntityFramework.SqlServerCompact.xml

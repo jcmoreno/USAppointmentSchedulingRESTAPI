@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\bin\Debug\USAppointmentScheduling.Tests.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\bin\Debug\USAppointmentScheduling.Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\bin\Debug\USAppointmentScheduling.Tests.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\bin\Debug\USAppointmentRESTAPI.DAO.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\bin\Debug\USAppointmentRESTAPI.DAO.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\obj\Debug\USAppointmentScheduling.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\obj\Debug\USAppointmentScheduling.Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\USAppointmentRESTAPI_2\USAppointmentScheduling.Tests\obj\Debug\USAppointmentScheduling.Tests.pdb

@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using US.AppointmentScheduling.RESTAPI.DAO;
+using US.AppointmentScheduling.RESTAPI.DAO.Exceptions;
 
 namespace US.AppointmentScheduling.RESTAPI.DAO
 {
+   
     public static class AppointmentSchedulingServices
     {
         public static List<Appointment> GetAllAppointments()
@@ -71,7 +73,7 @@ namespace US.AppointmentScheduling.RESTAPI.DAO
                 }
                 else
                 {
-                    throw new Exception("Invalid range!");
+                    throw new InvalidRangeException("Invalid range!");
                 }
 
             }
@@ -108,12 +110,12 @@ namespace US.AppointmentScheduling.RESTAPI.DAO
                     }
                     else
                     {
-                        throw new Exception("Record not found!");
+                        throw new RecordNotFoundException("Record not found!");
                     }
                 }
                 else
                 {
-                    throw new Exception("Invalid range!");
+                    throw new InvalidRangeException("Invalid range!");
                 }
 
             }
@@ -143,7 +145,7 @@ namespace US.AppointmentScheduling.RESTAPI.DAO
                 }
                 else
                 {
-                    throw new Exception("Record not found!");
+                    throw new RecordNotFoundException("Record not found!");
                 }
 
             }
@@ -162,6 +164,9 @@ namespace US.AppointmentScheduling.RESTAPI.DAO
 
             try
             {
+                if (start <= DateTime.Now || end <= DateTime.Now)
+                    return false;
+
                 if (id == null) {
                     appointments = (from appt in dc.Appointments
                                     where ((appt.StartTime >= start && appt.StartTime < end) ||

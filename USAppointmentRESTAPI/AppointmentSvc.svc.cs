@@ -132,7 +132,7 @@ namespace USAppointmentRESTAPI
             }
             catch (Exception e)
             {
-                response.ErrorMessage = "Error creating appointment --> " + e.Message.ToString();
+                response.ErrorMessage = "Error deleting appointment --> " + e.Message.ToString();
             }
             finally
             {

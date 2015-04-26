@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USAppointmentRESTAPI", "USAppointmentRESTAPI\USAppointmentRESTAPI.csproj", "{EA154C83-5728-42C7-802A-5D823B52B354}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USAppointmentRESTAPI.DAO", "USAppointmentRESTAPI.DAO\USAppointmentRESTAPI.DAO.csproj", "{63E6A5C1-E37D-4875-831A-BA979696BDC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USAppointmentRESTAPI.Tests", "USAppointmentScheduling.Tests\USAppointmentRESTAPI.Tests.csproj", "{41480AB0-C3E1-4754-959C-F326DF51080B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +31,12 @@ Global
 		{63E6A5C1-E37D-4875-831A-BA979696BDC7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{63E6A5C1-E37D-4875-831A-BA979696BDC7}.Release|x86.ActiveCfg = Release|x86
 		{63E6A5C1-E37D-4875-831A-BA979696BDC7}.Release|x86.Build.0 = Release|x86
+		{41480AB0-C3E1-4754-959C-F326DF51080B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41480AB0-C3E1-4754-959C-F326DF51080B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41480AB0-C3E1-4754-959C-F326DF51080B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{41480AB0-C3E1-4754-959C-F326DF51080B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41480AB0-C3E1-4754-959C-F326DF51080B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41480AB0-C3E1-4754-959C-F326DF51080B}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
